@@ -28,7 +28,7 @@ repositorio/
 **Paso 1.** Clonar el repositorio.
 
 ```bash
-git clone URL_DEL_REPOSITORIO
+git clone https://github.com/gerardojhps/laboratorio-mttd-mttr
 ```
 
 **Paso 2.** Ingresar al proyecto.
